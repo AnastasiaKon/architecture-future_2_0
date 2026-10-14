@@ -1,0 +1,5 @@
+Task4/.terraform/
+Task4/*.tfstate*
+Task4/tfplan
+Task4/sa-key.json
+Task4/crash.log

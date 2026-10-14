@@ -1,1 +1,6 @@
-# architecture-future_2_0
+# architecture-future_2_0 - проектная работа 11 спринта
+
+- `Task1/` - диаграмма контейнеров C4 целевой архитектуры (draw.io + png), анализ проблемных мест и их приоритизация (`analysis.md`)
+- `Task2/` - DFD потоков данных между доменами (draw.io + png), обоснование разделения на домены (`domains.md`)
+- `Task3/` - технологический радар (draw.io + png), роадмап и обоснование этапов (`tech-radar-and-roadmap.md`)
+- `Task4/` - Terraform-конфигурация окружения домена в Yandex Cloud, диаграмма автоматизации развёртывания (`diagram.png`), обоснование (`justification.md`)
